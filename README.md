@@ -78,11 +78,11 @@ public class JavaApplication30 {
                if(dept[j]==6.04)
                {
                    sum1+=pnum[k];
-//                    System.out.println(day[i]+"     "+dept[j]+"       "+pnum[k]);
+                 //System.out.println(day[i]+"     "+dept[j]+"       "+pnum[k]);
                } 
          }
          avg1=sum1/3;
-//        System.out.println(avg1);
+           //System.out.println(avg1);
         
          int sum2 = 0;
          int avg2= 0;
